@@ -30,5 +30,9 @@
 *.exe
 *.out
 *.app
+<<<<<<< HEAD
  
  build/
+=======
+build/
+>>>>>>> f6a6315a30ecbf9f1b26cf3d59b39bfef81eebb1
