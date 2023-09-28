@@ -1,0 +1,12 @@
+/home/dmitry/Projects/otus_cpp/build/CMakeFiles/install/strip.dir
+/home/dmitry/Projects/otus_cpp/build/CMakeFiles/install.dir
+/home/dmitry/Projects/otus_cpp/build/CMakeFiles/list_install_components.dir
+/home/dmitry/Projects/otus_cpp/build/CMakeFiles/edit_cache.dir
+/home/dmitry/Projects/otus_cpp/build/CMakeFiles/rebuild_cache.dir
+/home/dmitry/Projects/otus_cpp/build/CMakeFiles/helloworld.dir
+/home/dmitry/Projects/otus_cpp/build/CMakeFiles/helloworld_cli.dir
+/home/dmitry/Projects/otus_cpp/build/CMakeFiles/package.dir
+/home/dmitry/Projects/otus_cpp/build/CMakeFiles/package_source.dir
+/home/dmitry/Projects/otus_cpp/build/CMakeFiles/test_version.dir
+/home/dmitry/Projects/otus_cpp/build/CMakeFiles/install/local.dir
+/home/dmitry/Projects/otus_cpp/build/CMakeFiles/test.dir

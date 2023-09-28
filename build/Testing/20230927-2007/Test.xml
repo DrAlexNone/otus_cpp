@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20230927-2007-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.16.3"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="dustastra"
+	OSRelease="5.15.0-70-generic"
+	OSVersion="#astra2 SMP Mon Apr 10 13:35:08 UTC 2023"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="60"
+	ProcessorCacheSize="3072"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="975"
+	TotalPhysicalMemory="15668"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2995.8"
+	>
+	<Testing>
+		<StartDateTime>Sep 27 23:07 MSK</StartDateTime>
+		<StartTestTime>1695845248</StartTestTime>
+		<TestList/>
+		<EndDateTime>Sep 27 23:07 MSK</EndDateTime>
+		<EndTestTime>1695845248</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
